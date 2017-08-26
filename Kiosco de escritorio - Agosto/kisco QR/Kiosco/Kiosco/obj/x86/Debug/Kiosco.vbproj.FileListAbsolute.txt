@@ -303,3 +303,6 @@ C:\Users\Jose\Documents\Visual Studio 2015\Projects\Programas de IPP\Kiosco de e
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\Kiosco.exe.config
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\obj\x86\Debug\Kiosco.exe
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\obj\x86\Debug\Kiosco.pdb
+C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\Kiosco.exe.config
+C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\obj\x86\Debug\Kiosco.exe
+C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\obj\x86\Debug\Kiosco.pdb
