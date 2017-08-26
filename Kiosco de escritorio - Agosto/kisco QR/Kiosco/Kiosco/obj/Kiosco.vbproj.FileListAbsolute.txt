@@ -1,0 +1,12 @@
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\ResolveAssemblyReference.cache
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+G:\Proyectos Quini\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.crpPdfXml.rpt

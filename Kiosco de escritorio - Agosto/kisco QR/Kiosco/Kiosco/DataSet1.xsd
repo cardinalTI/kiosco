@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="timbrado" msprop:Generator_TableClassName="timbradoDataTable" msprop:Generator_TableVarName="tabletimbrado" msprop:Generator_TablePropName="timbrado" msprop:Generator_RowDeletingName="timbradoRowDeleting" msprop:Generator_RowChangingName="timbradoRowChanging" msprop:Generator_RowEvHandlerName="timbradoRowChangeEventHandler" msprop:Generator_RowDeletedName="timbradoRowDeleted" msprop:Generator_UserTableName="timbrado" msprop:Generator_RowChangedName="timbradoRowChanged" msprop:Generator_RowEvArgName="timbradoRowChangeEvent" msprop:Generator_RowClassName="timbradoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="centro" msprop:Generator_ColumnVarNameInTable="columncentro" msprop:Generator_ColumnPropNameInRow="centro" msprop:Generator_ColumnPropNameInTable="centroColumn" msprop:Generator_UserColumnName="centro" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_inicial" msprop:Generator_ColumnVarNameInTable="columnfecha_inicial" msprop:Generator_ColumnPropNameInRow="fecha_inicial" msprop:Generator_ColumnPropNameInTable="fecha_inicialColumn" msprop:Generator_UserColumnName="fecha_inicial" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_timbrado" msprop:Generator_ColumnVarNameInTable="columnfecha_timbrado" msprop:Generator_ColumnPropNameInRow="fecha_timbrado" msprop:Generator_ColumnPropNameInTable="fecha_timbradoColumn" msprop:Generator_UserColumnName="fecha_timbrado" type="xs:string" minOccurs="0" />
+              <xs:element name="numero_empleado" msprop:Generator_ColumnVarNameInTable="columnnumero_empleado" msprop:Generator_ColumnPropNameInRow="numero_empleado" msprop:Generator_ColumnPropNameInTable="numero_empleadoColumn" msprop:Generator_UserColumnName="numero_empleado" type="xs:string" minOccurs="0" />
+              <xs:element name="certificado" msprop:Generator_ColumnVarNameInTable="columncertificado" msprop:Generator_ColumnPropNameInRow="certificado" msprop:Generator_ColumnPropNameInTable="certificadoColumn" msprop:Generator_UserColumnName="certificado" type="xs:string" minOccurs="0" />
+              <xs:element name="sin_certificado" msprop:Generator_ColumnVarNameInTable="columnsin_certificado" msprop:Generator_ColumnPropNameInRow="sin_certificado" msprop:Generator_ColumnPropNameInTable="sin_certificadoColumn" msprop:Generator_UserColumnName="sin_certificado" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="notimbrados" msprop:Generator_TableClassName="notimbradosDataTable" msprop:Generator_TableVarName="tablenotimbrados" msprop:Generator_TablePropName="notimbrados" msprop:Generator_RowDeletingName="notimbradosRowDeleting" msprop:Generator_RowChangingName="notimbradosRowChanging" msprop:Generator_RowEvHandlerName="notimbradosRowChangeEventHandler" msprop:Generator_RowDeletedName="notimbradosRowDeleted" msprop:Generator_UserTableName="notimbrados" msprop:Generator_RowChangedName="notimbradosRowChanged" msprop:Generator_RowEvArgName="notimbradosRowChangeEvent" msprop:Generator_RowClassName="notimbradosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="centro" msprop:Generator_ColumnVarNameInTable="columncentro" msprop:Generator_ColumnPropNameInRow="centro" msprop:Generator_ColumnPropNameInTable="centroColumn" msprop:Generator_UserColumnName="centro" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_inicial" msprop:Generator_ColumnVarNameInTable="columnfecha_inicial" msprop:Generator_ColumnPropNameInRow="fecha_inicial" msprop:Generator_ColumnPropNameInTable="fecha_inicialColumn" msprop:Generator_UserColumnName="fecha_inicial" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_timbrado" msprop:Generator_ColumnVarNameInTable="columnfecha_timbrado" msprop:Generator_ColumnPropNameInRow="fecha_timbrado" msprop:Generator_ColumnPropNameInTable="fecha_timbradoColumn" msprop:Generator_UserColumnName="fecha_timbrado" type="xs:string" minOccurs="0" />
+              <xs:element name="nombre_empleado" msprop:Generator_ColumnVarNameInTable="columnnombre_empleado" msprop:Generator_ColumnPropNameInRow="nombre_empleado" msprop:Generator_ColumnPropNameInTable="nombre_empleadoColumn" msprop:Generator_UserColumnName="nombre_empleado" type="xs:string" minOccurs="0" />
+              <xs:element name="rfc" msprop:Generator_ColumnVarNameInTable="columnrfc" msprop:Generator_ColumnPropNameInRow="rfc" msprop:Generator_ColumnPropNameInTable="rfcColumn" msprop:Generator_UserColumnName="rfc" type="xs:string" minOccurs="0" />
+              <xs:element name="cfdi_timbrado" msprop:Generator_ColumnVarNameInTable="columncfdi_timbrado" msprop:Generator_ColumnPropNameInRow="cfdi_timbrado" msprop:Generator_ColumnPropNameInTable="cfdi_timbradoColumn" msprop:Generator_UserColumnName="cfdi_timbrado" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

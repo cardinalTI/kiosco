@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Kiosco">
+</Property><Property Name="Solution File" Value="C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco.suo">
+</Property><Property Name="Date" Value="jueves, 08 de octubre de 2015">
+</Property><Property Name="Time" Value="16:48 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Kiosco.sln" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Kiosco.suo" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco.suo">
+</Event><Event ErrorLevel="4" Project="Kiosco" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Kiosco.vbproj" Description="Project file successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\Kiosco.vbproj">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Kiosco.vbproj.user" Description="Project user file successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\Kiosco.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\clsKiosco.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\clsKiosco.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\clsKioscoHandler.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\clsKioscoHandler.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\clsXML.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\clsXML.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\crpPdfXml.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\crpPdfXml.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\dsPercepciones.Designer.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\dsPercepciones.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Form1.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Form1.Designer.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\dsPercepciones.xsc" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\dsPercepciones.xsc">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\dsPercepciones.xsd" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\dsPercepciones.xsd">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\dsPercepciones.xss" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\dsPercepciones.xss">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\crpPdfXml.rpt" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\crpPdfXml.rpt">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Form1.resx" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Soporte\Desktop\Kiosco\Kiosco\Backup\Kiosco\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Kiosco" Source="Kiosco\Kiosco.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Kiosco.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Kiosco" Source="Kiosco\Kiosco.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Kiosco.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Kiosco.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Kiosco" Source="Kiosco\Kiosco.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

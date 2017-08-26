@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kiosco", "Kiosco\Kiosco.vbproj", "{F89CF1C9-7359-47AF-AE93-D2F027F778AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Debug|x86.ActiveCfg = Debug|x86
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Debug|x86.Build.0 = Debug|x86
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Release|x64.ActiveCfg = Release|Any CPU
+		{F89CF1C9-7359-47AF-AE93-D2F027F778AF}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,221 @@
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco - copia\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\Kiosco - copia (2)\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\kisco QR\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Desktop\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\MySQLDriverCS.dll
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Desktop\escritorio\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco QR - original\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco septiembre 2016 - copia\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Soporte\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco octubre 2016 - pruebas\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - mayo - 25 -  sin timbrar\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.SplashScreen1.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe.manifest
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - junio sin timbre\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.application
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - julio sin timbre - 2\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - julio sin timbre - 2\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\kisco 2017 - julio sin timbre - 2\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Kiosco de escritorio\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Kiosco de escritorio\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.xml
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Programas de IPP\Kiosco de escritorio\kisco QR\Kiosco\Kiosco\obj\Debug\Kiosco.pdb
