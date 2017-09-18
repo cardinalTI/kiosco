@@ -19,6 +19,7 @@ Public Class Form1
     Private arreDatossn As ArrayList
     Private rptReporteno As New rptnotimbrados
     Public conexionn As String
+    Public ruta As String
 
     ''nuevo
 
@@ -215,13 +216,13 @@ Public Class Form1
         DataGridView1.Rows.Clear()
         DataGridView2.Rows.Clear()
 
-
+        '201.139.106.58
 
         'nuevas empresas
 
         If conexion = "INFORMATION THECNOLOGY INDUSTRIES ITI SA DE CV" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\INFORMATION THECNOLOGY.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -230,7 +231,7 @@ Public Class Form1
         End If
         If conexion = "PEPSAT SA DE CV" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\PEPSAT SA DE CV.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -239,7 +240,7 @@ Public Class Form1
         End If
         If conexion = "CROTEC SA DE CV" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\CROTEC SA DE CV.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -248,7 +249,7 @@ Public Class Form1
         End If
         If conexion = "NUBULA SA DE CV" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\NUBULA SA DE CV.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -270,8 +271,8 @@ Public Class Form1
 
         If conexion = "UPHETILOLI" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
-":C:\microsip datos\UPHETILOLI.FDB"
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
+":C:\microsip datos\UPHETILOLI 2.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
             Me.MuestraFrecuencias()
@@ -283,7 +284,7 @@ Public Class Form1
 
         If conexion = "TALENTO Y DESARROLLO DEL VALLE" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\TALENTO Y DESARROLLO DEL VALLE.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -352,7 +353,7 @@ Public Class Form1
 
         If conexion = "IT TELECOM" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\IT RESOURCES TELECOM SA DE CV.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -362,7 +363,7 @@ Public Class Form1
 
         If conexion = "CONISAL" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\GRUPO CONISAL.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -373,7 +374,7 @@ Public Class Form1
 
         If conexion = "WIPSI" Then
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
- ";PWD=ata8244;DBNAME=201.139.106.58" &
+ ";PWD=ata8244;DBNAME=192.168.2.83" &
 ":C:\microsip datos\WIPSI A C.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -394,7 +395,7 @@ Public Class Form1
 
 
             Dim cadenaODBC As String = "DRIVER=Firebird/InterBase(r) driver;UID=SYSDBA" &
-  ";PWD=ata8244;DBNAME=201.139.106.58" &
+  ";PWD=ata8244;DBNAME=192.168.2.83" &
  ":C:\microsip datos\NEXTEL.FDB"
             Me.cKiosco = New clsKioscoHandler(cadenaODBC)
             Me.MuestraNominas()
@@ -959,6 +960,22 @@ Public Class Form1
 
 
     Private Sub btnInsertarMYSQL_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnInsertarMYSQL.Click
+
+        ' Dim ruta As String
+        ''
+        If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+            ' List files in the folder.
+
+            ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+            ruta = FolderBrowserDialog1.SelectedPath
+            ''
+
+        End If
+
+
         Dim contador As Integer = 0
         Dim contador2 As Integer = 0
 
@@ -1246,6 +1263,21 @@ Public Class Form1
     'crear desde excel inicio
 
     Private Sub CreaPDFyFTPCONISAL_SINTIMBRE(ByVal c As clsXML)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Dim entero As Integer
         entero = Math.Ceiling(c.DiasTrabajados)
         Try
@@ -1317,7 +1349,7 @@ Public Class Form1
             Me.rptPDFXML9.SetParameterValue("TipoPago", "Pago en una sola  exhibición")
             Me.rptPDFXML9.SetParameterValue("Total", "1")
             Me.rptPDFXML9.SetParameterValue("CertificadoSAT", "N")
-            Me.rptPDFXML9.SetParameterValue("clave", "044")
+            Me.rptPDFXML9.SetParameterValue("clave1", "044")
             Me.rptPDFXML9.SetParameterValue("descripcion", "JUBILACIONES, PENSIONES O HABERES DEL RETIRO")
             Me.rptPDFXML9.SetParameterValue("jubilacion", c.jubilaciones)
             Me.rptPDFXML9.SetParameterValue("QR", "N")
@@ -1356,7 +1388,7 @@ Public Class Form1
             'yyy
             nombre = c.RFCEmpresa & "_" & "Pago_de_Nómina" & "_" & año & mes & dia & hora & minuto & "_N_" & c.RFCEmpleado
             If chbpc.Checked Then
-                Me.rptPDFXML9.ExportToDisk(CrystalDecisions.Shared.ExportFormatType.PortableDocFormat, My.Computer.FileSystem.SpecialDirectories.MyDocuments & "\Recibos\" & nombre & ".pdf")
+                'Me.rptPDFXML9.ExportToDisk(CrystalDecisions.Shared.ExportFormatType.PortableDocFormat, My.Computer.FileSystem.SpecialDirectories.MyDocuments & "\Recibos\" & nombre & ".pdf")
                 ''prueba
 
                 Dim vFileName As String = Nothing
@@ -1367,7 +1399,7 @@ Public Class Form1
                     rptPDFXML9.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1395,7 +1427,7 @@ Public Class Form1
                     rptPDFXML9.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1451,6 +1483,21 @@ Public Class Form1
 
     ''junio
     Private Sub CreaPDFyFTPCONISAL_SINTIMBREps(ByVal c As clsXML)
+
+        Dim ruta As String
+        ''
+        If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+            ' List files in the folder.
+
+            ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+            ruta = FolderBrowserDialog1.SelectedPath
+            ''
+
+        End If
+
         Dim entero As Integer
         entero = Math.Ceiling(c.DiasTrabajados)
         Try
@@ -1569,7 +1616,7 @@ Public Class Form1
                     rptPDFXML11.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1597,7 +1644,7 @@ Public Class Form1
                     rptPDFXML11.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1672,6 +1719,21 @@ Public Class Form1
         End Try
     End Sub
     Private Sub CreaPDFyFTP(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -1783,7 +1845,7 @@ Public Class Form1
                     rptPDFXML3.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1811,7 +1873,7 @@ Public Class Form1
                     rptPDFXML3.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -1868,6 +1930,21 @@ Public Class Form1
 
     'CONISAL
     Private Sub CreaPDFyFTPCONISAL(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -1979,7 +2056,7 @@ Public Class Form1
                     rptPDFXML2.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2007,7 +2084,7 @@ Public Class Form1
                     rptPDFXML2.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2066,6 +2143,20 @@ Public Class Form1
 
     'WIPSI
     Private Sub CreaPDFyFTPWIPSI(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -2180,7 +2271,7 @@ Public Class Form1
                     rptPDFXML5.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2208,7 +2299,7 @@ Public Class Form1
                     rptPDFXML3.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2266,6 +2357,22 @@ Public Class Form1
 
     'telecom 
     Private Sub CreaPDFyFTPteleco(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -2377,7 +2484,7 @@ Public Class Form1
                     rptPDFXML6.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2405,7 +2512,7 @@ Public Class Form1
                     rptPDFXML6.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2459,6 +2566,21 @@ Public Class Form1
         End Try
     End Sub
     Private Sub CreaPDFyFTPUPHETILOLI(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -2573,7 +2695,7 @@ Public Class Form1
                     rptPDFXML10.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2601,7 +2723,7 @@ Public Class Form1
                     rptPDFXML10.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2661,6 +2783,22 @@ Public Class Form1
 
     ''talento
     Private Sub CreaPDFyFTPTALENTO(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -2775,7 +2913,7 @@ Public Class Form1
                     rptPDFXML8.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2803,7 +2941,7 @@ Public Class Form1
                     rptPDFXML8.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -2861,6 +2999,22 @@ Public Class Form1
 
     ''morget
     Private Sub CreaPDFyFTPMORGET(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -2972,7 +3126,7 @@ Public Class Form1
                     rptPDFXML7.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3000,7 +3154,7 @@ Public Class Form1
                     rptPDFXML7.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3057,6 +3211,23 @@ Public Class Form1
 
     'aicel
     Private Sub CreaPDFyFTPAICEL(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -3168,7 +3339,7 @@ Public Class Form1
                     rptPDFXML12.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3196,7 +3367,7 @@ Public Class Form1
                     rptPDFXML12.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3256,6 +3427,23 @@ Public Class Form1
 
     ''empresa 1 
     Private Sub CreaPDFyFTPINFORMATION(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -3367,7 +3555,7 @@ Public Class Form1
                     rptPDFXML13.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3395,7 +3583,7 @@ Public Class Form1
                     rptPDFXML13.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3453,6 +3641,22 @@ Public Class Form1
     ''empresa 2
 
     Private Sub CreaPDFyFTPPEPSAT(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -3564,7 +3768,7 @@ Public Class Form1
                     rptPDFXML14.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3592,7 +3796,7 @@ Public Class Form1
                     rptPDFXML14.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3649,6 +3853,22 @@ Public Class Form1
     ''empresa 3
 
     Private Sub CreaPDFyFTPCROTEC(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -3760,7 +3980,7 @@ Public Class Form1
                     rptPDFXML15.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3788,7 +4008,7 @@ Public Class Form1
                     rptPDFXML15.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3845,6 +4065,21 @@ Public Class Form1
     ''empresa 4
 
     Private Sub CreaPDFyFTPNUBULA(ByVal c As clsXML, ByVal c2 As Double, ByVal c3 As String, ByVal redondeo As Double)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Dim entero As Integer
         entero = Math.Ceiling(redondeo)
         Try
@@ -3956,7 +4191,7 @@ Public Class Form1
                     rptPDFXML16.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -3984,7 +4219,7 @@ Public Class Form1
                     rptPDFXML16.ExportOptions.ExportFormatType = ExportFormatType.PortableDocFormat
 
                     'Este es la ruta donde se guardara tu archivo.
-                    vFileName = "c:\Recibos nextel\" & nombre & ".pdf"
+                    vFileName = ruta & "\" & nombre & ".pdf"
                     If File.Exists(vFileName) Then
                         File.Delete(vFileName)
                     End If
@@ -4767,6 +5002,21 @@ Public Class Form1
     'nuevo pdf
 
     Private Sub CreaXMLYFTP(ByVal xml As String, ByVal RFCEmpresa As String, ByVal fecha As Date, ByVal rfcempleado As String, ByVal fpago As Date, ByVal nombreemp As String)
+
+        'Dim ruta As String
+        '''
+        'If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
+
+        '    ' List files in the folder.
+
+        '    ListFiles(FolderBrowserDialog1.SelectedPath)
+
+
+        '    ruta = FolderBrowserDialog1.SelectedPath
+        '    ''
+
+        'End If
+
         Try
             Dim año, mes, dia, hora, minuto, segundo As String
             año = fecha.Year.ToString
@@ -4796,7 +5046,7 @@ Public Class Form1
                 Dim xmldoc As New XmlDocument
                 'Dim xmldecl As XmlDeclaration
                 xmldoc.LoadXml(xml)
-                xmldoc.Save("c:\Recibos nextel\" & nombre & ".xml")
+                xmldoc.Save(ruta & "\" & nombre & ".xml")
                 'xmldoc.Save(My.Computer.FileSystem.SpecialDirectories.MyDocuments & "\Recibos\" & nombre & ".xml")
 
             Else
@@ -4809,12 +5059,12 @@ Public Class Form1
                 'xmldecl = xmldoc.CreateXmlDeclaration("1.0", "utf-8", Nothing)
                 'Dim root As XmlElement = xmldoc.DocumentElement
                 'xmldoc.InsertBefore(xmldecl, root)
-                xmldoc.Save("c:\Recibos nextel\" & nombre & ".xml")
+                xmldoc.Save(ruta & "\" & nombre & ".xml")
                 ' xmldoc.Save(My.Computer.FileSystem.SpecialDirectories.MyDocuments & "\Recibos\" & nombre & ".xml")
 
 
 
-                Dim clsRequest As System.Net.FtpWebRequest = _
+                Dim clsRequest As System.Net.FtpWebRequest =
     DirectCast(System.Net.WebRequest.Create("ftp://ipp.com.mx/" & empresa.ToString & "/" & año.ToString & "/" & nombrem & "/" & nombre & ".xml"), System.Net.FtpWebRequest)
                 clsRequest.Credentials = New System.Net.NetworkCredential("kiosco@ipp.com.mx", "XyUkT5DwGl7F7sW")
                 clsRequest.Method = System.Net.WebRequestMethods.Ftp.UploadFile
@@ -4824,7 +5074,7 @@ Public Class Form1
                 'Dim bFile() As Byte = System.IO.File.ReadAllBytes(My.Computer.FileSystem.SpecialDirectories.MyDocuments & "\Recibos\" & nombre & ".xml")
 
                 ' upload file...
-                Dim clsStream As System.IO.Stream = _
+                Dim clsStream As System.IO.Stream =
                     clsRequest.GetRequestStream()
                 clsStream.Write(bFile, 0, bFile.Length)
                 clsStream.Close()
