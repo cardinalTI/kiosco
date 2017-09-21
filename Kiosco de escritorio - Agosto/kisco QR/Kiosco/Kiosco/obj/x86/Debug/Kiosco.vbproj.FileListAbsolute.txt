@@ -311,8 +311,6 @@ C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kio
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\Kiosco.exe
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\Kiosco.pdb
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
-C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
-C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.ReportSource.dll
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.Shared.dll
 C:\Users\Jose\Documents\GitHub\kiosco\Kiosco de escritorio - Agosto\kisco QR\Kiosco\Kiosco\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll

@@ -10,15 +10,18 @@
     </subscription>
     <deploymentProvider codebase="http://atalanta.com.mx/descargas/Kiosco2017/Kiosco.application" />
   </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Kiosco.exe.manifest" size="16469">
+    <dependentAssembly dependencyType="install" codebase="Kiosco.exe.manifest" size="16582">
       <assemblyIdentity name="Kiosco.exe" version="3.0.0.14" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>MOHNirmhYEkQ9ZcI9Iw3D2hxTGk=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WvbvvVHsKEtcbxMK35/RgT+OpG2Clummrerb+NsOmj0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
