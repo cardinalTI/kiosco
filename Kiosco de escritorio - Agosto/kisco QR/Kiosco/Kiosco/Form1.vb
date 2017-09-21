@@ -1260,6 +1260,9 @@ Public Class Form1
             ZipFile.CreateFromDirectory(startPath, zipPath)
 
             'ZipFile.ExtractToDirectory(zipPath, extractPath)
+            For Each s As String In My.Computer.FileSystem.GetFiles("c:\Recibos nextel \")
+                My.Computer.FileSystem.DeleteFile(s)
+            Next
             MsgBox("Total de archivos registrados correctamente " & contador2)
             MsgBox("Los archivos no ingresados al kiosco fueron " & Me.contadorfaipp)
             TextBox1.Text = Me.faltantesipp
