@@ -23,6 +23,7 @@ Public Class Form1
     Public conexionn As String
     Public ruta As String
     Public fechafianll As String
+    Public fechainiciall As String
 
     ''nuevo
 
@@ -963,7 +964,9 @@ Public Class Form1
 
 
     Private Sub btnInsertarMYSQL_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnInsertarMYSQL.Click
-
+        For Each s As String In My.Computer.FileSystem.GetFiles("c:\Recibos nextel \")
+            My.Computer.FileSystem.DeleteFile(s)
+        Next
         ' Dim ruta As String
         ''
         If FolderBrowserDialog1.ShowDialog() = DialogResult.OK Then
@@ -1254,7 +1257,9 @@ Public Class Form1
 
             Next
             Dim startPath As String = "c:\Recibos nextel \"
-            Dim zipPath As String = ruta & "\" & cbxfrecuenciapago.Text & " " & fechafianll & ".zip"
+
+            '4221 - EUROPREMIUM del 01-Sep-17 al 07-Sep-17​ - AICEL
+            Dim zipPath As String = ruta & "\" & cbxfrecuenciapago.Text & " del  " & fechainiciall & " al " & fechafianll & "- " & cbxbase.Text & ".zip"
             ' Dim extractPath As String = ruta & "\extract"
 
             ZipFile.CreateFromDirectory(startPath, zipPath)
@@ -1822,6 +1827,21 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -1834,6 +1854,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -2042,7 +2065,21 @@ Public Class Form1
 
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
 
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -2055,6 +2092,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -2258,6 +2298,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -2270,6 +2326,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -2471,6 +2530,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -2483,6 +2558,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -2682,6 +2760,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -2694,6 +2788,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -2900,6 +2997,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -2912,6 +3025,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -3113,6 +3229,23 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+
+
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            '''fechas
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -3137,7 +3270,8 @@ Public Class Form1
             mesl = mesm
             nombrem = MonthName(mesl)
             Dim empresa As String = c.RFCEmpresa.ToString.ToLower
-            fechafianll = año & "-" & mes & "-" & dia
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyy
             nombre = c.RFCEmpresa & "_" & "Pago_de_Nómina" & "_" & año & mes & dia & hora & minuto & "_N_" & c.RFCEmpleado
             If chbpc.Checked Then
@@ -3326,6 +3460,24 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
+
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -3338,6 +3490,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -3542,6 +3697,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -3554,6 +3725,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -3755,6 +3929,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -3767,6 +3957,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -3967,6 +4160,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -3979,6 +4188,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
@@ -4178,6 +4390,22 @@ Public Class Form1
             'Me.rptPDFXML3.SetParameterValue("SalarioDiarioIntegral", c.TipoPago)
             'Me.rptPDFXML3.SetParameterValue("puesto", c.Puesto)
 
+            ''fechas
+            Dim año1, mes1, dia1 As String
+            Dim fecha1 As Date = c.FechaIPago
+            Dim fecha2 As Date = c.FechaFPago
+
+            año1 = fecha1.Year.ToString
+            mes1 = fecha1.Month.ToString
+            dia1 = fecha1.Day.ToString
+            Dim año2, mes2, dia2 As String
+
+
+            año2 = fecha2.Year.ToString
+            mes2 = fecha2.Month.ToString
+            dia2 = fecha2.Day.ToString
+            ''fechas
+
             Dim año, mes, dia, hora, minuto As String
             Dim nombre As String
             Dim fecha As Date = c.FechaTimbrado
@@ -4190,6 +4418,9 @@ Public Class Form1
             If mes.Length = 1 Then
                 mes = "0" & mes
             End If
+
+            fechafianll = año2 & "-" & mes2 & "-" & dia2
+            fechainiciall = año1 & "-" & mes1 & "-" & dia1
             'yyyyyy
             Dim mesm As String
             Dim fpago As Date = c.FechaFPago
